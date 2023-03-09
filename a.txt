@@ -1,3 +1,5 @@
 testano os features
 teste 1
 teste 2
+
+teste stash
